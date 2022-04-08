@@ -1,4 +1,8 @@
 # confit-spark
+
+# https://github.com/hablapps/confit-spark
+
+
 Conf.it conference spark training
 
 
